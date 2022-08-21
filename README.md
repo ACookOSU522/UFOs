@@ -1,6 +1,6 @@
-# UFOs
-## Overview
-### Purpose
+# UFOs 	:flying_saucer::alien::cow2:
+## Overview: To provide Dana a more in-depth analysis of UFO sightings by allowing users click-to-filter options. 
+In addition to the date, I added table filters for the city, state, country, and shape. :compass: 
 
 ## Resources
 
