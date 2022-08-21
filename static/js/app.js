@@ -9,14 +9,14 @@ function printHello();
 
 // Simple JavaScript console.log statement
 function printHello() {
-    console.log("Hello there!");
+console.log("Hello there!");
   };
- 
+
 // Takes two numbers and adds them
 function addition(a, b) {
     return a + b;
   };
-  console.log(addition(4, 5));
+console.log(addition(a, b));
 
   // Functions can call other functions
 function doubleAddition(c, d) {
@@ -59,14 +59,14 @@ function doubleAddition(c, d) {
     for (var i = 0; i < userList.length; i++) {
       console.log(userList[i]);
     }
- };
+};
 
  // to clear browser
- clear()
+clear()
 
 //forloops
- let friends = ["Sarah", "Greg", "Cindy", "Jeff"];
- function listLoop(userList) {
+let friends = ["Sarah", "Greg", "Cindy", "Jeff"];
+function listLoop(userList) {
   for (var i = 0; i < userList.length; i++) {
     console.log(userList[i]);
   }
