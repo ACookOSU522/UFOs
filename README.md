@@ -12,9 +12,9 @@ The website will generate results based on the information you provide. To reset
 
 ## Summary/Areas for Improvement:
 The user must know specific dates, cities, or shapes to search. Some shapes like "light" might not be as intuitive. The filters require correct lower-case spellings and cannot include spaces at the end. 
-The city that was used, for example, could not be typed as "elcajon", “el cajon_”, or "El Cajon". The only acceptable input would be "el cajon".
+The city that was used, for example, could not be typed as "lamesa", “la_mesa”, or "La Mesa". The only acceptable input would be "la mesa".
 
-Two recommendations are:
+Two recommendations (and a bonus) are:
 - Make the page upper case/lower case intuitive. If a search were to be for Roswell rather than roswell it would be syntactically correct.
-- Allow for a map point to appear when the search results are populated. A google map location would be beneficialto anyone interested in the general global/topography of a search result. 
+- Allow for a map point to appear when the search results are populated. A google map location would be beneficial to anyone interested in the general global/topography of a search result. 
 - A fun bonus to the page would be as the mouse navigates the page add a whimsical ufo icon that travels as the mouse tail.
